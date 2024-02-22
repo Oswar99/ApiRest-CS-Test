@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "Hello\Hello.csproj", "{EFAE57C0-1FA3-442F-AF45-F8F6B21C1803}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3849737-BB0D-4AA6-800F-2B745D8E0CB5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E155C790-EA38-422C-B4CF-CDE2D8971478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAE57C0-1FA3-442F-AF45-F8F6B21C1803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAE57C0-1FA3-442F-AF45-F8F6B21C1803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAE57C0-1FA3-442F-AF45-F8F6B21C1803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAE57C0-1FA3-442F-AF45-F8F6B21C1803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E155C790-EA38-422C-B4CF-CDE2D8971478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E155C790-EA38-422C-B4CF-CDE2D8971478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E155C790-EA38-422C-B4CF-CDE2D8971478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E155C790-EA38-422C-B4CF-CDE2D8971478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD060A2F-A8D0-4F6B-9E56-748020C01CAB}
+	EndGlobalSection
+EndGlobal
